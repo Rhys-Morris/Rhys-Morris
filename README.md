@@ -9,12 +9,12 @@ I'm passionate about good design, UI/UX and lifelong learning.
 ## Technologies & Languages 
 
 <div>
-<img src="icons/icons8-css3-48" alt="CSS-3">
-<img src="icons/icons8-html-5-48" alt="HTML-5">
-<img src="icons/icons8-sass-48" alt="SASS">
-<img src="icons/icons8-javascript-48" alt="Javascript">
-<img src="icons/icons8-npm-48" alt="Node-Package-Manager">
-<img src="icons/icons8-git-48" alt="Git">
+<img src="icons/icons8-css3-48.png" alt="CSS-3">
+<img src="icons/icons8-html-5-48.png" alt="HTML-5">
+<img src="icons/icons8-sass-48.png" alt="SASS">
+<img src="icons/icons8-javascript-48.png" alt="Javascript">
+<img src="icons/icons8-npm-48.png" alt="Node-Package-Manager">
+<img src="icons/icons8-git-48.png" alt="Git">
 </div>
 
 ## Outside Work 🌞
@@ -23,7 +23,7 @@ In my spare time I restore mid century furniture, mostly dating from the 1950s a
 
 You can find my instagram with some of my work [here](https://www.instagram.com/morrismodern/?hl=en)
 
-## Get in touch!💬
+## Get in touch! 💬
 
-<a href="https://www.linkedin.com/in/rhys-morris-37ba241b9/"><img src="icons/icons8-linkedin-2-48" alt="LinkedIn"></a>
-<a href="https://twitter.com/RhysMorris91"><img src="icons/icons8-twitter-48" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/rhys-morris-37ba241b9/"><img src="icons/icons8-linkedin-2-48.png" alt="LinkedIn"></a>
+<a href="https://twitter.com/RhysMorris91"><img src="icons/icons8-twitter-48.png" alt="Twitter"></a>
