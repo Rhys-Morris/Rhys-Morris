@@ -6,6 +6,17 @@ I currently work as a small animal veterinarian, quite a different field to soft
 
 I'm passionate about good design, UI/UX and lifelong learning. 
 
+## Technologies & Languages 
+
+<div>
+<img src="icons/icons8-css3-48" alt="CSS-3">
+<img src="icons/icons8-html-5-48" alt="HTML-5">
+<img src="icons/icons8-sass-48" alt="SASS">
+<img src="icons/icons8-javascript-48" alt="Javascript">
+<img src="icons/icons8-npm-48" alt="Node-Package-Manager">
+<img src="icons/icons8-git-48" alt="Git">
+</div>
+
 ## Outside Work 🌞
 
 In my spare time I restore mid century furniture, mostly dating from the 1950s and 1960s. I really love the design aesthetic of the period: clean, fluid lines and natural finishes.
@@ -14,18 +25,5 @@ You can find my instagram with some of my work [here](https://www.instagram.com/
 
 ## Get in touch!💬
 
-
-<!--
-**Rhys-Morris/Rhys-Morris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/rhys-morris-37ba241b9/"><img src="icons/icons8-linkedin-2-48" alt="LinkedIn"></a>
+<a href="https://twitter.com/RhysMorris91"><img src="icons/icons8-twitter-48" alt="Twitter"></a>
