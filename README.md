@@ -2,9 +2,9 @@
 ---
 I'm Rhys, a developer in training from Melbourne, Australia. I'm currently enrolled in the Coder Academy Flex Track Bootcamp and loving it!
 
-I currently work as a small animal veterinarian, quite a different field to software engineering. There's suprisingly a lot of crossover, however, and I've found the steps in diagnosing and fixing a programming error very similar to the systematic approach you take to diagnosing a problem in veterinary medicine. 
+I currently work as a small animal veterinarian, and hope to transition into a career in development in the not too distant future.
 
-I'm passionate about good design, UI/UX and lifelong learning. 
+I'm really passionate about good design, UI and UX and lifelong learning. 
 
 ## Technologies & Languages 
 
