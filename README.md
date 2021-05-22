@@ -1,10 +1,6 @@
 ### Hi, folks! 👋
 ---
-I'm Rhys, a developer in training from Melbourne, Australia. I'm currently enrolled in the Coder Academy Flex Track Bootcamp and loving it!
-
-I currently work as a small animal veterinarian, and hope to transition into a career in development in the not too distant future.
-
-I'm really passionate about good design, UI and UX and lifelong learning. 
+I'm Rhys, a software developer in training from Melbourne, Australia. I currently work as a small animal veterinarian, and hope to transition into a career in development in the not too distant future.
 
 ## Technologies & Languages 
 
@@ -19,11 +15,4 @@ I'm really passionate about good design, UI and UX and lifelong learning.
 
 ## Outside Work 🌞
 
-In my spare time I restore mid century furniture, mostly dating from the 1950s and 1960s. I really love the design aesthetic of the period: clean, fluid lines and natural finishes.
-
-You can find my instagram with some of my work [here](https://www.instagram.com/morrismodern/?hl=en)
-
-## Get in touch! 💬
-
-<a href="https://www.linkedin.com/in/rhys-morris-37ba241b9/"><img src="icons/icons8-linkedin-2-48.png" alt="LinkedIn"></a>
-<a href="https://twitter.com/RhysMorris91"><img src="icons/icons8-twitter-48.png" alt="Twitter"></a>
+In my spare time I restore mid century furniture, mostly dating from the 1950s and 1960s. I really love the design aesthetic of the period: clean, fluid lines and natural finishes. You can find my instagram with some of my work [here](https://www.instagram.com/morrismodern/?hl=en)
