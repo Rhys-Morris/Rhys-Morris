@@ -1,7 +1,8 @@
 ### Hi, folks! 👋
 ---
 I'm Rhys, a software developer in training from Melbourne, Australia. I'm currently enrolled in Coder Academy's Flex Track Bootcamp, due to complete in September 2021.
-I'm still working in my first career, as a small animal veterinarian, but hope to transition into a full-time development rle in the not too distant future!
+
+I'm still working in my first career, as a small animal veterinarian, but hope to transition into a full-time development role in the not too distant future!
 
 ## Technologies
 
